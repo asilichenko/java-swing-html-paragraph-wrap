@@ -1,6 +1,6 @@
 # Java swing html paragraph wrap
 
-![Screenshot of a result](img/screenshot.jpg)
+![Screenshot of default state](img/default.jpg) ![Screenshot of a result](img/screenshot.jpg)
 
 By default there are some issues with long text displaying in html page loaded into _JEditorPane_.
 1. content of the pre-blocks is not wrapped at all;
