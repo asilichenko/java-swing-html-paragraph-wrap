@@ -1,1 +1,1 @@
-# java-swing-html-paragraph-wrap
+# Java swing html paragraph wrap
