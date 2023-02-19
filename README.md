@@ -2,7 +2,7 @@
 
 ![Screenshot of a result](img/screenshot.jpg)
 
-By default there is a problem with long text displaying in html page loaded into _JEditorPane_.
+By default there are some issues with long text displaying in html page loaded into _JEditorPane_.
 1. content of the pre-blocks is not wrapped at all;
 2. long like super long word or symbol seqence is not wrapped anywhere.
 
