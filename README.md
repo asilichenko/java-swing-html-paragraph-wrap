@@ -16,3 +16,7 @@ For the first two issues we need to override classes _javax.swing.text.html.HTML
 Our _HTMLEditorKit_ should just return an object of our _ParagraphView_ for specific tags.
 
 Custom _ParagraphView_ should return 0 in the method _getMinimumSpan_ for X-axis.
+
+BTW, HTMLEditorKit implements HTML spec ver. 3.2. The specification is from as early as 1997:
+
+https://www.w3.org/TR/2018/SPSD-html32-20180315/
